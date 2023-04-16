@@ -1,6 +1,6 @@
 <h1 align="center">Ignite Timer</h1>
 
-![Screenshot_2](https://user-images.githubusercontent.com/89029213/232259084-82035e25-48c3-4faf-be52-304b9a78d678.png)
+![Capa](https://user-images.githubusercontent.com/89029213/232318032-5c52c9d7-5aab-45b7-a2c5-9bdc43a204d5.png)
 
 <h3 align="center">
     <a href="https://ignite-timer-gules-xi.vercel.app/">Acessar a demonstração</a>

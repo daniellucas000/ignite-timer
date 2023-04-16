@@ -17,6 +17,7 @@
 
 - [ReactJS](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
 - [Styled Components](https://styled-components.com/docs)
 - [React Hook Form](https://react-hook-form.com/)
 - [React Router](https://reactrouter.com/en/v6.3.0/getting-started/overview)
